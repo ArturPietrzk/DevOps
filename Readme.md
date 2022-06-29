@@ -1,6 +1,5 @@
-# SPRAWOZDANIE 05
 
-# Sprawozdanie z wykorzystania Pipeline'a
+# Wykorzystania Pipeline'a
 
 ## Głównym założeniem projektu było uporządkowanie procesów Build oraz Test wykorzystująć utworzne wcześniej Dockerfile. Dodatkowo należało wykonać Deploy oraz Publish aplikacji, wykorzystywanej podczas poprzednich laboratoriów.
 - Zgodnie z poprzednią instrukcją należy uruchomić Jenkinsa'a skonfigurowanego na poprzednich zajęciach. Uruchamiamy DIND oraz jenkinsa:
